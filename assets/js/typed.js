@@ -1,5 +1,5 @@
 new Typed('#typed',{
-    strings : ['valex','social media services','well reputable', 'rich', 'trusted', 'known'],
+    strings : ['valex','services','well reputable', 'not in com', 'trusted', 'known', 'rich'],
     typeSpeed : 40,
     delaySpeed : 90,
     showCursor: false,
