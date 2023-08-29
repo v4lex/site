@@ -1,7 +1,7 @@
 new Typed('#typed',{
-    strings : ['valex','services','well reputable', 'not in com', 'trusted', 'known', 'rich'],
-    typeSpeed : 40,
-    delaySpeed : 90,
+    strings : ['services','well reputable', 'not in com', 'trusted', 'known'],
+    typeSpeed : 45,
+    delaySpeed : 100,
     showCursor: false,
     loop : true
   });
